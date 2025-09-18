@@ -1,4 +1,4 @@
-"use client"
+
 import { Payment,columns } from "@/app/payments/columns"";
 import { DataTable } from "@/app/payments/data-table"
 
