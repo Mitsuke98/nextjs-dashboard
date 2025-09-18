@@ -1,6 +1,6 @@
 "use client"
-import { Payment,columns } from "./columns";
-import { DataTable } from "./data-table"
+import { Payment,columns } from "@/app/payments/columns"";
+import { DataTable } from "@/app/payments/data-table"
 
 const getData = async (): Promise<Payment[]> => {
     return [
