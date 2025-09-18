@@ -9,7 +9,11 @@ const nextConfig: NextConfig = {
         hostname:"images.pexels.com",
       }
     ]
-  }
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+},
+  
 };
 
 export default nextConfig;

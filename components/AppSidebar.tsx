@@ -18,7 +18,6 @@ import {
     SidebarSeparator,
 } from "@/components/ui/sidebar"
 import Link from "next/link"
-import Image from "next/image"
 import { DropdownMenuContent,DropdownMenu, DropdownMenuItem, DropdownMenuTrigger } from "./ui/dropdown-menu"
 import { Collapsible, CollapsibleContent } from "@radix-ui/react-collapsible"
 import { CollapsibleTrigger } from "./ui/collapsible"

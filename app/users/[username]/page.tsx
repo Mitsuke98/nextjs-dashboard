@@ -27,7 +27,7 @@ const SingleUserPage = () => {
         <Breadcrumb>
             <BreadcrumbList>
             <BreadcrumbItem>
-                <BreadcrumbLink h ref="/">Dashboard</BreadcrumbLink>
+                <BreadcrumbLink href="/">Dashboard</BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbSeparator />
             <BreadcrumbItem>
